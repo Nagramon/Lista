@@ -75,11 +75,11 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="APRENDE TV" tvg-logo="http://photocall.tv/images/aprendetv.png" group-title="Cultura",APRENDE TV
 http://liveingesta118.cdnmedia.tv//dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CACHIPUM TV" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil",CACHIPUM TV
+#EXTINF:-1 tvg-id="" tvg-name="CACHIPUM TV" tvg-logo="http://photocall.tv/images/cachipum.png" group-title=Infanti",CACHIPUM TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil",PEQUERADIO
+#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title=Infantil,PEQUERADIO
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="INFANTIL",LOCOMOTION
+#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title=Infantil,LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV NORUEGA" tvg-logo="" group-title="Musica",MTV NORUEGA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
